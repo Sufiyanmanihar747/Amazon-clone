@@ -1,0 +1,42 @@
+@media screen and (max-width:1176px) {
+
+
+    nav {
+        flex-direction: column;
+        height: 153px;
+
+    }
+
+    .bar {
+        display: flex;
+        justify-content: center;
+        margin-left: -36px;
+    }
+
+    .cart {
+        position: relative;
+        bottom: 78px;
+        left: 79vw;
+        margin-top: -18px;
+    }
+
+    .logo {
+        position: relative;
+        right: 118px;
+        margin-top: 40px;
+    }
+
+    ul {
+        margin-bottom: 14px;
+        position: relative;
+        bottom: 37px;
+    }
+
+    .slider img {
+        margin-top: 92px;
+    }
+
+    .card {
+        margin: 4px 37px;
+    }
+}
